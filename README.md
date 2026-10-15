@@ -1,0 +1,7 @@
+"# git-session1-RedaNadir" 
+"**Name:** Reda Nadir" 
+"**GitHub Username:** itsmereedaa" 
+"## Technologies" 
+"- HTML, CSS, JavaScript, Git" 
+"## Banner" 
+"![Banner](assets/project-banner.svg)" 
